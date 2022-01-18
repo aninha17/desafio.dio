@@ -1,0 +1,11 @@
+using System;
+namespace ExemploConstrutores
+{
+    class Program
+    {
+        static void Main(string[]args)
+        {
+            console.Writeline("Hello world!!")
+        }
+    }
+}
